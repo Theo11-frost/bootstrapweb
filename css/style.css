@@ -1,0 +1,29 @@
+.icon img{
+    width: 70px;
+    opacity: 0.7;
+}
+.banner{
+    width: 500px;
+}
+.adjust{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.icon-img{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.border-topp{
+    border-top: 5px solid rgb(73, 212, 247);
+    border-radius: 5px;
+}
